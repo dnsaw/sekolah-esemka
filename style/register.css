@@ -1,0 +1,26 @@
+html,
+body {
+  height: 100%;
+}
+
+.card-title {
+  color: #ffffff !important;
+}
+
+.global-container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-form {
+  width: 450px;
+  height: auto;
+  padding: 15px;
+  background-color: #222222 !important;
+}
+
+.form-check {
+  color: #ffffff !important;
+}
